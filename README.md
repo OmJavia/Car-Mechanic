@@ -34,6 +34,8 @@ The **Car Mechanic App** is a web application designed to help car owners quickl
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling for a responsive and user-friendly design.
 - **JavaScript**: Functionality, including booking appointments, interacting with the DOM, and managing user inputs.
+- **Anvil**: Data Collection and Analysis.
+
 
 ## Installation and Setup
 
