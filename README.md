@@ -1,6 +1,6 @@
-# Car Mechanic App
+# Car Mechanic Website
 
-**Project Link**: [Car Mechanic App](https://apna-mechanic.vercel.app/)
+**Project Link**: [Car Mechanic Website](https://apna-mechanic.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/646e21b1-4f54-4d80-9d2a-92ebf8301d09)
 
