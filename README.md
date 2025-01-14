@@ -1,4 +1,4 @@
-# Car Mechanic Website
+# Car Mechanic Application
 
 **Project Link**: [Car Mechanic Website](https://apna-mechanic.vercel.app/)
 
